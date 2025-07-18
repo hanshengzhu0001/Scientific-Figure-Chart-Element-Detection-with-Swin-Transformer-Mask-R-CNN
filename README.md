@@ -14,7 +14,7 @@ This project provides a robust pipeline for detecting and segmenting chart eleme
 | Demo 3 | Demo 4 |
 |--------|--------|
 | ![Demo 3](media/demo%203.gif) | ![Demo 4](media/demo%204.gif) |
-| *Data point detection and user selection workflow* | *Dense captioning and grounding* |
+| *Data point detection and user selection workflow* | *Extra object marking* |
 
 ---
 
