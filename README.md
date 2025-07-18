@@ -9,12 +9,12 @@ This project provides a robust pipeline for detecting and segmenting chart eleme
 | Demo 1 | Demo 2 |
 |--------|--------|
 | ![Demo 1](media/demo%201.gif) | ![Demo 2](media/demo%202.gif) |
-| *Data point detection and segmentation* | *Full chart element detection* |
+| *Data bar detection and segmentation* | *Chart element selection* |
 
 | Demo 3 | Demo 4 |
 |--------|--------|
 | ![Demo 3](media/demo%203.gif) | ![Demo 4](media/demo%204.gif) |
-| *User selection workflow* | *Dense captioning and grounding* |
+| *Data point detection and user selection workflow* | *Dense captioning and grounding* |
 
 ---
 
